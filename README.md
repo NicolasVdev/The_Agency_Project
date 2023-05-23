@@ -7,4 +7,4 @@
 
 Playing with bootstrap & css @AtomicDesign
 
-medeling with : https://bootswatch.com/vapor/
+modeling with : https://bootswatch.com/vapor/
