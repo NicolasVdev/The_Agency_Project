@@ -11436,3 +11436,8 @@ legend {
   border-color: black;
   box-shadow: 0 0 10px black;
 }
+
+.card-2 {
+  border-color: black;
+  box-shadow: 10px 10px 10px black;
+}
